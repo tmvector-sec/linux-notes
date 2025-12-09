@@ -1,2 +1,2 @@
-# linux-notes
-Notes about Linux commands, concepts and fundamentals I've learned.
+# Linux Notes
+Commands and concepts I'm learning while practicing Linux fundamentals.
